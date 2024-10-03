@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Share Tech Mono";
+  src: url("/fonts/ShareTechMono-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.header {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  left: 20px;
+  top: 20px;
+  z-index: 3;
+  font-family: "Share Tech Mono", monospace;
+  color: #fff;
+  font-size: 16px;
+}
+
+.header > h1 {
+  margin-right: 20px;
+}
+
+.btn-head {
+  padding: 1px 20px;
+  background: none;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  margin-right: 6px;
+  font-family: "Share Tech Mono", monospace;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btn-head:hover {
+  background-color: rgba(245, 96, 106, 0.7);
+  transition: all 0.3s;
+}

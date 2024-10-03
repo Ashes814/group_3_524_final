@@ -1,0 +1,10 @@
+.school {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  height: 100vh;
+  width: 151vw;
+  background-size: cover;
+  background-image: url("src/assets/images/school.png");
+}

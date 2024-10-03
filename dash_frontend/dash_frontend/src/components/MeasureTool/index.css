@@ -1,0 +1,41 @@
+.el-button + .el-button {
+  margin-left: 8px;
+}
+
+.popover-w {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.query-item {
+  color: #fff;
+  transition: all 0.3s;
+}
+
+.query-item:hover {
+  cursor: pointer;
+  /* color: red; */
+  transform: translateY(-3px);
+  /* background: linear-gradient(
+      to bottom,
+      rgba(0, 128, 255, 0.6),
+      rgba(0, 128, 255, 0.281)
+    ); */
+}
+
+.btn-toggle {
+  width: 40px;
+  background: None;
+  font-family: "Share Tech Mono", monospace;
+  color: #fff;
+  font-size: 16px;
+  border: 1px solid #fff;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.btn-toggle:hover {
+  background-color: rgba(245, 96, 106, 0.7);
+  transition: all 0.3s;
+}

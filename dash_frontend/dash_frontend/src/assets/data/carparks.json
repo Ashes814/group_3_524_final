@@ -1,0 +1,372 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "carparks",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840000.1118000001, 818583.2841999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"PARKING_ID" : 10,
+				"NAME_EN" : "Kai Tak Cruise Terminal Car Park 1",
+				"NAME_CH" : "啟德郵輪碼頭停車場 1",
+				"EASTING" : "840000.1",
+				"NORTHING" : "818583.3",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=10&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=10&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=10"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840376.5415000003, 820631.5096000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"PARKING_ID" : 12,
+				"NAME_EN" : "Amoy Plaza",
+				"NAME_CH" : "淘大商場",
+				"EASTING" : "840376.5",
+				"NORTHING" : "820631.5",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=12&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=12&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=12"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842504.9402999999, 817732.2237 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"PARKING_ID" : 27,
+				"NAME_EN" : "Yau Lai Shopping Centre Carpark",
+				"NAME_CH" : "油麗商場停車場",
+				"EASTING" : "842504.9",
+				"NORTHING" : "817732.2",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=27&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=27&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839891.3587999996, 820364.3286000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"PARKING_ID" : 30,
+				"NAME_EN" : "Telford Plaza D Carpark",
+				"NAME_CH" : "德福廣場D車場",
+				"EASTING" : "839891.4",
+				"NORTHING" : "820364.3",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=30&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=30&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840044.9927000003, 820408.3257999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"PARKING_ID" : 31,
+				"NAME_EN" : "Telford Plaza I Carpark",
+				"NAME_CH" : "德福廣場一期停車場",
+				"EASTING" : "840045",
+				"NORTHING" : "820408.3",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=31&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=31&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=31"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840017.3943999996, 820261.0496999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"PARKING_ID" : 32,
+				"NAME_EN" : "Telford Plaza II Carpark",
+				"NAME_CH" : "德福廣場二期停車場",
+				"EASTING" : "840017.4",
+				"NORTHING" : "820261",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=32&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=32&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=32"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839092.1675000004, 820440.5440999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"PARKING_ID" : 36,
+				"NAME_EN" : "Kowloonbay International Trade & Exhibition Centre",
+				"NAME_CH" : "九龍灣國際展貿中心",
+				"EASTING" : "839092.2",
+				"NORTHING" : "820440.5",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=36&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=36&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=36"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839686.3711000001, 820104.9092999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"PARKING_ID" : 37,
+				"NAME_EN" : "Manhattan Place Carpark",
+				"NAME_CH" : "Manhattan Place 停車場",
+				"EASTING" : "839686.4",
+				"NORTHING" : "820104.9",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=37&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=37&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=37"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842638.2735000001, 817451.9768000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"PARKING_ID" : 38,
+				"NAME_EN" : "Domain Carpark",
+				"NAME_CH" : "大本型停車場",
+				"EASTING" : "842638.3",
+				"NORTHING" : "817452",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=38&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=38&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840020.4907999998, 821171.0223999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"PARKING_ID" : 39,
+				"NAME_EN" : "Choi Tak Estate Carpark",
+				"NAME_CH" : "彩德邨停車場",
+				"EASTING" : "840020.5",
+				"NORTHING" : "821171",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=39&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=39&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=39"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839962.5258999998, 818580.5266999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"PARKING_ID" : 59,
+				"NAME_EN" : "Kai Tak Cruise Terminal Car Park 2",
+				"NAME_CH" : "啟德郵輪碼頭停車場 2",
+				"EASTING" : "839962.5",
+				"NORTHING" : "818580.5",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=59&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=59&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=59"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839361.8099999996, 820762.0551999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"PARKING_ID" : 74,
+				"NAME_EN" : "Goldin Financial Global Centre",
+				"NAME_CH" : "高銀金融國際中心",
+				"EASTING" : "839361.8",
+				"NORTHING" : "820762.1",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=74&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=74&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=74"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840946.7481000004, 819299.6187999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"PARKING_ID" : 75,
+				"NAME_EN" : "Landmark East Carpark",
+				"NAME_CH" : "Landmark East 停車場",
+				"EASTING" : "840946.7",
+				"NORTHING" : "819299.6",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=75&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=75&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=75"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839603.4567, 820511.1470999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"PARKING_ID" : 77,
+				"NAME_EN" : "Kingston International Center",
+				"NAME_CH" : "金利豐國際中心",
+				"EASTING" : "839603.5",
+				"NORTHING" : "820511.1",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=77&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=77&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=77"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838461.9332999997, 821714.1537999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"PARKING_ID" : 78,
+				"NAME_EN" : "Stelux House",
+				"NAME_CH" : "寶光商業中心",
+				"EASTING" : "838461.9",
+				"NORTHING" : "821714.2",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=78&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=78&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=78"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840408.8855999997, 819548.9601000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"PARKING_ID" : 81,
+				"NAME_EN" : "Manulife Place",
+				"NAME_CH" : "宏利廣場",
+				"EASTING" : "840408.9",
+				"NORTHING" : "819549",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=81&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=81&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=81"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838381.8113000002, 821642.7120999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"PARKING_ID" : 82,
+				"NAME_EN" : "The Latitude Carpark",
+				"NAME_CH" : "譽．港灣停車場",
+				"EASTING" : "838381.8",
+				"NORTHING" : "821642.7",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=82&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=82&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=82"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842431.2408999996, 817037.4410999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"PARKING_ID" : 88,
+				"NAME_EN" : "Public Vehicle Parking, 8 Yan Yue Wai, Yau Tong",
+				"NAME_CH" : "油塘仁宇圍8號公眾停車場",
+				"EASTING" : "842431.2",
+				"NORTHING" : "817037.4",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=88&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=88&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=88"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841203.4795000004, 820188.8445999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"PARKING_ID" : 93,
+				"NAME_EN" : "Hong Ning Road Park Car Park",
+				"NAME_CH" : "康寧道公園停車場",
+				"EASTING" : "841203.5",
+				"NORTHING" : "820188.8",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=93&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=93&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=93"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840344.7999999998, 819458.8000000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"PARKING_ID" : 79,
+				"NAME_EN" : "NEO",
+				"NAME_CH" : "綠景",
+				"EASTING" : "840344.8",
+				"NORTHING" : "819458.8",
+				"BASIC_INFO_EN" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=79&lang=en_US",
+				"BASIC_INFO_CH" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkInfo?carparkId=79&lang=zh_TW",
+				"PARKING_VACANCY" : "https://sps-opendata.pilotsmartke.gov.hk/rest/getCarparkVacancy?carparkId=79"
+			}
+		}
+	]
+}

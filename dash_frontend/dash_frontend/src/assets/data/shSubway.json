@@ -1,0 +1,6513 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "shSubway.1",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3855616,
+                    31.11121476
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "莘庄",
+                "lat": 31.11121476,
+                "lng": 121.3855616,
+                "capacity": 2094,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.2",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3930209,
+                    31.1209034
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "外环路",
+                "lat": 31.1209034,
+                "lng": 121.3930209,
+                "capacity": 551,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.3",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4027978,
+                    31.13083023
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "莲花路",
+                "lat": 31.13083023,
+                "lng": 121.4027978,
+                "capacity": 979,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.4",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4141598,
+                    31.141967
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "锦江乐园",
+                "lat": 31.141967,
+                "lng": 121.4141598,
+                "capacity": 2735,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.5",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4303053,
+                    31.15408368
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海南站",
+                "lat": 31.15408368,
+                "lng": 121.4303053,
+                "capacity": 909,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.6",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4340741,
+                    31.16849521
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "漕宝路",
+                "lat": 31.16849521,
+                "lng": 121.4340741,
+                "capacity": 247,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.7",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4369962,
+                    31.18246769
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海体育馆",
+                "lat": 31.18246769,
+                "lng": 121.4369962,
+                "capacity": 1763,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.8",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4368161,
+                    31.19432018
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "徐家汇",
+                "lat": 31.19432018,
+                "lng": 121.4368161,
+                "capacity": 2927,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.9",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44675,
+                    31.2049887
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "衡山路",
+                "lat": 31.2049887,
+                "lng": 121.44675,
+                "capacity": 407,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.10",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4502166,
+                    31.21360199
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "常熟路",
+                "lat": 31.21360199,
+                "lng": 121.4502166,
+                "capacity": 1730,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.11",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4591278,
+                    31.21596312
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "陕西南路",
+                "lat": 31.21596312,
+                "lng": 121.4591278,
+                "capacity": 1257,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.12",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4732104,
+                    31.22282144
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "黄陂南路",
+                "lat": 31.22282144,
+                "lng": 121.4732104,
+                "capacity": 2134,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.13",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4745619,
+                    31.23277805
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "人民广场",
+                "lat": 31.23277805,
+                "lng": 121.4745619,
+                "capacity": 4000,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.14",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4683146,
+                    31.23859873
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "新闸路",
+                "lat": 31.23859873,
+                "lng": 121.4683146,
+                "capacity": 685,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.15",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4587262,
+                    31.24113482
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "汉中路",
+                "lat": 31.24113482,
+                "lng": 121.4587262,
+                "capacity": 353,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.16",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4575254,
+                    31.24889197
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海火车站",
+                "lat": 31.24889197,
+                "lng": 121.4575254,
+                "capacity": 1371,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.17",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4591845,
+                    31.2588637
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "中山北路",
+                "lat": 31.2588637,
+                "lng": 121.4591845,
+                "capacity": 1862,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.18",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4554775,
+                    31.27180669
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "延长路",
+                "lat": 31.27180669,
+                "lng": 121.4554775,
+                "capacity": 3908,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.19",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4520909,
+                    31.27959233
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海马戏城",
+                "lat": 31.27959233,
+                "lng": 121.4520909,
+                "capacity": 3978,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.20",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4501265,
+                    31.29272163
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "汶水路",
+                "lat": 31.29272163,
+                "lng": 121.4501265,
+                "capacity": 2978,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.21",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4486753,
+                    31.30668998
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "彭浦新村",
+                "lat": 31.30668998,
+                "lng": 121.4486753,
+                "capacity": 3495,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.22",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447047,
+                    31.31899751
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "共康路",
+                "lat": 31.31899751,
+                "lng": 121.447047,
+                "capacity": 1016,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.23",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4415419,
+                    31.33109876
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "通河新村",
+                "lat": 31.33109876,
+                "lng": 121.4415419,
+                "capacity": 998,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.24",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4377264,
+                    31.33975276
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "呼兰路",
+                "lat": 31.33975276,
+                "lng": 121.4377264,
+                "capacity": 3460,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.25",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.434097,
+                    31.35505844
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "共富新村",
+                "lat": 31.35505844,
+                "lng": 121.434097,
+                "capacity": 3204,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.26",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4310483,
+                    31.36945523
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "宝安公路",
+                "lat": 31.36945523,
+                "lng": 121.4310483,
+                "capacity": 337,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.27",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4279888,
+                    31.38120623
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "友谊西路",
+                "lat": 31.38120623,
+                "lng": 121.4279888,
+                "capacity": 3219,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.28",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4246617,
+                    31.392293
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "富 锦 路",
+                "lat": 31.392293,
+                "lng": 121.4246617,
+                "capacity": 1165,
+                "line": "1"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.29",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8058171,
+                    31.15080179
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "浦东国际机场",
+                "lat": 31.15080179,
+                "lng": 121.8058171,
+                "capacity": 1520,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.30",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7969338,
+                    31.16852226
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "海天三路",
+                "lat": 31.16852226,
+                "lng": 121.7969338,
+                "capacity": 212,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.31",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7554457,
+                    31.19940039
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "远东大道",
+                "lat": 31.19940039,
+                "lng": 121.7554457,
+                "capacity": 3617,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.32",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7240967,
+                    31.19280877
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "凌空路",
+                "lat": 31.19280877,
+                "lng": 121.7240967,
+                "capacity": 1873,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.33",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6980606,
+                    31.18660962
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "川沙",
+                "lat": 31.18660962,
+                "lng": 121.6980606,
+                "capacity": 1152,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.34",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6808976,
+                    31.19662727
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "华夏东路",
+                "lat": 31.19662727,
+                "lng": 121.6808976,
+                "capacity": 2772,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.35",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6737493,
+                    31.21351546
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "创新中路",
+                "lat": 31.21351546,
+                "lng": 121.6737493,
+                "capacity": 1593,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.36",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6561918,
+                    31.21431488
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "唐镇",
+                "lat": 31.21431488,
+                "lng": 121.6561918,
+                "capacity": 1377,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.37",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6211626,
+                    31.21086978
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "广兰路",
+                "lat": 31.21086978,
+                "lng": 121.6211626,
+                "capacity": 177,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.38",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6019765,
+                    31.20417555
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金科路",
+                "lat": 31.20417555,
+                "lng": 121.6019765,
+                "capacity": 1604,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.39",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5877087,
+                    31.20167617
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "张江高科",
+                "lat": 31.20167617,
+                "lng": 121.5877087,
+                "capacity": 2875,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.40",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5575192,
+                    31.20282889
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "龙阳路",
+                "lat": 31.20282889,
+                "lng": 121.5575192,
+                "capacity": 2161,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.41",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5509483,
+                    31.20929107
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "世纪公园",
+                "lat": 31.20929107,
+                "lng": 121.5509483,
+                "capacity": 2241,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.42",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5448713,
+                    31.21856321
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海科技馆",
+                "lat": 31.21856321,
+                "lng": 121.5448713,
+                "capacity": 1555,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.43",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5269903,
+                    31.22891984
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "世纪大道",
+                "lat": 31.22891984,
+                "lng": 121.5269903,
+                "capacity": 715,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.44",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5154202,
+                    31.23335064
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东昌路",
+                "lat": 31.23335064,
+                "lng": 121.5154202,
+                "capacity": 2092,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.45",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5023797,
+                    31.23817032
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "陆家嘴",
+                "lat": 31.23817032,
+                "lng": 121.5023797,
+                "capacity": 1224,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.46",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4842783,
+                    31.23799308
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "南京东路",
+                "lat": 31.23799308,
+                "lng": 121.4842783,
+                "capacity": 1957,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.47",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4594448,
+                    31.22802912
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "南京西路",
+                "lat": 31.22802912,
+                "lng": 121.4594448,
+                "capacity": 191,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.48",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4476528,
+                    31.22315888
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "静安寺",
+                "lat": 31.22315888,
+                "lng": 121.4476528,
+                "capacity": 2344,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.49",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4312836,
+                    31.22020369
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江苏路",
+                "lat": 31.22020369,
+                "lng": 121.4312836,
+                "capacity": 2307,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.50",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4163673,
+                    31.21822887
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "中山公园",
+                "lat": 31.21822887,
+                "lng": 121.4163673,
+                "capacity": 1954,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.51",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4038195,
+                    31.21112641
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "娄山关路",
+                "lat": 31.21112641,
+                "lng": 121.4038195,
+                "capacity": 2050,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.52",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3870513,
+                    31.2148238
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "威宁路",
+                "lat": 31.2148238,
+                "lng": 121.3870513,
+                "capacity": 1935,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.53",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3740166,
+                    31.21644187
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "北新泾",
+                "lat": 31.21644187,
+                "lng": 121.3740166,
+                "capacity": 2600,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.54",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3594132,
+                    31.21818972
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "淞虹路",
+                "lat": 31.21818972,
+                "lng": 121.3594132,
+                "capacity": 2432,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.55",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3261359,
+                    31.19379121
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹桥2号航站楼 ",
+                "lat": 31.19379121,
+                "lng": 121.3261359,
+                "capacity": 3838,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.56",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3214749,
+                    31.19396321
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹桥火车站",
+                "lat": 31.19396321,
+                "lng": 121.3214749,
+                "capacity": 2335,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.57",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2993571,
+                    31.18817965
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "徐泾东",
+                "lat": 31.18817965,
+                "lng": 121.2993571,
+                "capacity": 2741,
+                "line": "2"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.58",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4431085,
+                    31.15791379
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "石龙路",
+                "lat": 31.15791379,
+                "lng": 121.4431085,
+                "capacity": 829,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.59",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4440376,
+                    31.16984456
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "龙漕路",
+                "lat": 31.16984456,
+                "lng": 121.4440376,
+                "capacity": 564,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.60",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4383414,
+                    31.1766357
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "漕溪路",
+                "lat": 31.1766357,
+                "lng": 121.4383414,
+                "capacity": 2059,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.61",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4272028,
+                    31.1863361
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "宜山路",
+                "lat": 31.1863361,
+                "lng": 121.4272028,
+                "capacity": 2540,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.62",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4216066,
+                    31.19691457
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹桥路",
+                "lat": 31.19691457,
+                "lng": 121.4216066,
+                "capacity": 1397,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.63",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4170693,
+                    31.20961987
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "延安西路",
+                "lat": 31.20961987,
+                "lng": 121.4170693,
+                "capacity": 3662,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.64",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4128068,
+                    31.23190043
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金沙江路",
+                "lat": 31.23190043,
+                "lng": 121.4128068,
+                "capacity": 1381,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.65",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4179058,
+                    31.23858343
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "曹杨路",
+                "lat": 31.23858343,
+                "lng": 121.4179058,
+                "capacity": 1177,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.66",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4304401,
+                    31.24647436
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "镇坪路",
+                "lat": 31.24647436,
+                "lng": 121.4304401,
+                "capacity": 1327,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.67",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4410549,
+                    31.25458115
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "中潭路",
+                "lat": 31.25458115,
+                "lng": 121.4410549,
+                "capacity": 447,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.68",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4556254,
+                    31.24966297
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海站",
+                "lat": 31.24966297,
+                "lng": 121.4556254,
+                "capacity": 3473,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.69",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4763984,
+                    31.25148975
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "宝山路",
+                "lat": 31.25148975,
+                "lng": 121.4763984,
+                "capacity": 1226,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.70",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4800885,
+                    31.26000905
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东宝兴路",
+                "lat": 31.26000905,
+                "lng": 121.4800885,
+                "capacity": 3690,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.71",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4791715,
+                    31.27138451
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹口足球场",
+                "lat": 31.27138451,
+                "lng": 121.4791715,
+                "capacity": 1868,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.72",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4824562,
+                    31.28123616
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "赤峰路",
+                "lat": 31.28123616,
+                "lng": 121.4824562,
+                "capacity": 1498,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.73",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4832117,
+                    31.28946917
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "大柏树",
+                "lat": 31.28946917,
+                "lng": 121.4832117,
+                "capacity": 3364,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.74",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4851899,
+                    31.30557526
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江湾镇",
+                "lat": 31.30557526,
+                "lng": 121.4851899,
+                "capacity": 2501,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.75",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4849137,
+                    31.31981456
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "殷高西路",
+                "lat": 31.31981456,
+                "lng": 121.4849137,
+                "capacity": 3124,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.76",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4915826,
+                    31.33220206
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "长江南路",
+                "lat": 31.33220206,
+                "lng": 121.4915826,
+                "capacity": 2720,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.77",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5004834,
+                    31.34520075
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "淞发路",
+                "lat": 31.34520075,
+                "lng": 121.5004834,
+                "capacity": 2590,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.78",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4987858,
+                    31.35784668
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "张华浜",
+                "lat": 31.35784668,
+                "lng": 121.4987858,
+                "capacity": 1442,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.79",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4927407,
+                    31.37126917
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "淞滨路",
+                "lat": 31.37126917,
+                "lng": 121.4927407,
+                "capacity": 2963,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.80",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4881517,
+                    31.38135575
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "水产路",
+                "lat": 31.38135575,
+                "lng": 121.4881517,
+                "capacity": 1821,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.81",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4796546,
+                    31.39542525
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "宝杨路",
+                "lat": 31.39542525,
+                "lng": 121.4796546,
+                "capacity": 2251,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.82",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4758861,
+                    31.40413997
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "友谊路",
+                "lat": 31.40413997,
+                "lng": 121.4758861,
+                "capacity": 501,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.83",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4612294,
+                    31.40819388
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "铁力路",
+                "lat": 31.40819388,
+                "lng": 121.4612294,
+                "capacity": 433,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.84",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4398463,
+                    31.40788808
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江杨北路",
+                "lat": 31.40788808,
+                "lng": 121.4398463,
+                "capacity": 3177,
+                "line": "3"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.85",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4434065,
+                    31.18550184
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海体育场",
+                "lat": 31.18550184,
+                "lng": 121.4434065,
+                "capacity": 3430,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.86",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4547199,
+                    31.1910467
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东安路",
+                "lat": 31.1910467,
+                "lng": 121.4547199,
+                "capacity": 3917,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.87",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4637821,
+                    31.19388454
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "大木桥路",
+                "lat": 31.19388454,
+                "lng": 121.4637821,
+                "capacity": 3372,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.88",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4748004,
+                    31.19911724
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "鲁班路",
+                "lat": 31.19911724,
+                "lng": 121.4748004,
+                "capacity": 2041,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.89",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4894752,
+                    31.20203815
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "西藏南路",
+                "lat": 31.20203815,
+                "lng": 121.4894752,
+                "capacity": 275,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.90",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4994631,
+                    31.20843615
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "南浦大桥",
+                "lat": 31.20843615,
+                "lng": 121.4994631,
+                "capacity": 2895,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.91",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5187967,
+                    31.20952986
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "塘桥",
+                "lat": 31.20952986,
+                "lng": 121.5187967,
+                "capacity": 3192,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.92",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5278407,
+                    31.21173086
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "蓝村路",
+                "lat": 31.21173086,
+                "lng": 121.5278407,
+                "capacity": 2169,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.93",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5321924,
+                    31.2224284
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "浦电路",
+                "lat": 31.2224284,
+                "lng": 121.5321924,
+                "capacity": 1190,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.94",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5194805,
+                    31.23990389
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "浦东大道",
+                "lat": 31.23990389,
+                "lng": 121.5194805,
+                "capacity": 1772,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.95",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5173752,
+                    31.25196456
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "杨树浦路",
+                "lat": 31.25196456,
+                "lng": 121.5173752,
+                "capacity": 2516,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.96",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5128632,
+                    31.25823756
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "大连路",
+                "lat": 31.25823756,
+                "lng": 121.5128632,
+                "capacity": 1820,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.97",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5010341,
+                    31.26094725
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "临平路",
+                "lat": 31.26094725,
+                "lng": 121.5010341,
+                "capacity": 2650,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.98",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4890396,
+                    31.25921487
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "海伦路",
+                "lat": 31.25921487,
+                "lng": 121.4890396,
+                "capacity": 2211,
+                "line": "4"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.99",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3857112,
+                    31.09829793
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "春申路",
+                "lat": 31.09829793,
+                "lng": 121.3857112,
+                "capacity": 1844,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.100",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3902769,
+                    31.08933387
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "银都路",
+                "lat": 31.08933387,
+                "lng": 121.3902769,
+                "capacity": 3493,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.101",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4015569,
+                    31.0665361
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "颛桥",
+                "lat": 31.0665361,
+                "lng": 121.4015569,
+                "capacity": 1442,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.102",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.410017,
+                    31.04505085
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "北桥",
+                "lat": 31.04505085,
+                "lng": 121.410017,
+                "capacity": 2515,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.103",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4164952,
+                    31.02648345
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "剑川路",
+                "lat": 31.02648345,
+                "lng": 121.4164952,
+                "capacity": 306,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.104",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4198859,
+                    31.01821095
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东川路",
+                "lat": 31.01821095,
+                "lng": 121.4198859,
+                "capacity": 2055,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.105",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4100601,
+                    31.01108183
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金平路",
+                "lat": 31.01108183,
+                "lng": 121.4100601,
+                "capacity": 3354,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.106",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3951726,
+                    31.00736727
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "华宁路",
+                "lat": 31.00736727,
+                "lng": 121.3951726,
+                "capacity": 3374,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.107",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3808234,
+                    31.00352112
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "文井路",
+                "lat": 31.00352112,
+                "lng": 121.3808234,
+                "capacity": 305,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.108",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3698927,
+                    31.00061038
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "闵行开发区",
+                "lat": 31.00061038,
+                "lng": 121.3698927,
+                "capacity": 459,
+                "line": "5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.109",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5748566,
+                    31.35299056
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "港城路",
+                "lat": 31.35299056,
+                "lng": 121.5748566,
+                "capacity": 3413,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.110",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5869743,
+                    31.34773386
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "外高桥保税区北",
+                "lat": 31.34773386,
+                "lng": 121.5869743,
+                "capacity": 3563,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.111",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5939931,
+                    31.33538512
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "航津路",
+                "lat": 31.33538512,
+                "lng": 121.5939931,
+                "capacity": 772,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.112",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6019529,
+                    31.32171357
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "外高桥保税区南",
+                "lat": 31.32171357,
+                "lng": 121.6019529,
+                "capacity": 846,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.113",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5893966,
+                    31.3123891
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "洲海路",
+                "lat": 31.3123891,
+                "lng": 121.5893966,
+                "capacity": 3536,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.114",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5893747,
+                    31.30270247
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "五洲大道",
+                "lat": 31.30270247,
+                "lng": 121.5893747,
+                "capacity": 2404,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.115",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5888734,
+                    31.2907319
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东靖路",
+                "lat": 31.2907319,
+                "lng": 121.5888734,
+                "capacity": 680,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.116",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.589025,
+                    31.28040924
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "巨峰路",
+                "lat": 31.28040924,
+                "lng": 121.589025,
+                "capacity": 642,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.117",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5880777,
+                    31.27190978
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "五莲路",
+                "lat": 31.27190978,
+                "lng": 121.5880777,
+                "capacity": 1191,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.118",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5867786,
+                    31.26348
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "博兴路",
+                "lat": 31.26348,
+                "lng": 121.5867786,
+                "capacity": 2071,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.119",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5818705,
+                    31.25718096
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金桥路",
+                "lat": 31.25718096,
+                "lng": 121.5818705,
+                "capacity": 853,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.120",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.572743,
+                    31.2504195
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "云山路",
+                "lat": 31.2504195,
+                "lng": 121.572743,
+                "capacity": 391,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.121",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5643198,
+                    31.24536993
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "德平路",
+                "lat": 31.24536993,
+                "lng": 121.5643198,
+                "capacity": 3748,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.122",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5528091,
+                    31.23924112
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "北洋泾路",
+                "lat": 31.23924112,
+                "lng": 121.5528091,
+                "capacity": 1399,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.123",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5434926,
+                    31.23587876
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "民生路",
+                "lat": 31.23587876,
+                "lng": 121.5434926,
+                "capacity": 3262,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.124",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5346921,
+                    31.23300097
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "源深体育中心",
+                "lat": 31.23300097,
+                "lng": 121.5346921,
+                "capacity": 2693,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.125",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5235263,
+                    31.2030747
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海儿童医学中心",
+                "lat": 31.2030747,
+                "lng": 121.5235263,
+                "capacity": 836,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.126",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5169902,
+                    31.19306455
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "临沂新村",
+                "lat": 31.19306455,
+                "lng": 121.5169902,
+                "capacity": 3566,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.127",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5100044,
+                    31.18568204
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "高科西路",
+                "lat": 31.18568204,
+                "lng": 121.5100044,
+                "capacity": 1350,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.128",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5114486,
+                    31.17269373
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东明路",
+                "lat": 31.17269373,
+                "lng": 121.5114486,
+                "capacity": 807,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.129",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5155336,
+                    31.15982348
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "高青路",
+                "lat": 31.15982348,
+                "lng": 121.5155336,
+                "capacity": 1530,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.130",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5147058,
+                    31.14982991
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "华夏西路",
+                "lat": 31.14982991,
+                "lng": 121.5147058,
+                "capacity": 594,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.131",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5063767,
+                    31.1491539
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上南路",
+                "lat": 31.1491539,
+                "lng": 121.5063767,
+                "capacity": 1937,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.132",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4952319,
+                    31.14872174
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "灵岩南路",
+                "lat": 31.14872174,
+                "lng": 121.4952319,
+                "capacity": 1375,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.133",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4805833,
+                    31.15356324
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东方体育中心",
+                "lat": 31.15356324,
+                "lng": 121.4805833,
+                "capacity": 3925,
+                "line": "6"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.134",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5628017,
+                    31.21121427
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "花木路",
+                "lat": 31.21121427,
+                "lng": 121.5628017,
+                "capacity": 287,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.135",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5501086,
+                    31.19306751
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "芳华路",
+                "lat": 31.19306751,
+                "lng": 121.5501086,
+                "capacity": 916,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.136",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5401318,
+                    31.18741214
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "锦绣路",
+                "lat": 31.18741214,
+                "lng": 121.5401318,
+                "capacity": 1129,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.137",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5253782,
+                    31.18746782
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "杨高南路",
+                "lat": 31.18746782,
+                "lng": 121.5253782,
+                "capacity": 1747,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.138",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5003603,
+                    31.18215627
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "云台路",
+                "lat": 31.18215627,
+                "lng": 121.5003603,
+                "capacity": 216,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.139",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4945949,
+                    31.17853222
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "耀华路",
+                "lat": 31.17853222,
+                "lng": 121.4945949,
+                "capacity": 2668,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.140",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4860976,
+                    31.17459207
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "长清路",
+                "lat": 31.17459207,
+                "lng": 121.4860976,
+                "capacity": 1225,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.141",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4737301,
+                    31.17193704
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "后滩",
+                "lat": 31.17193704,
+                "lng": 121.4737301,
+                "capacity": 1651,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.142",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4568737,
+                    31.18444219
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "龙华中路",
+                "lat": 31.18444219,
+                "lng": 121.4568737,
+                "capacity": 1078,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.143",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4501452,
+                    31.19921507
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "肇嘉浜路",
+                "lat": 31.19921507,
+                "lng": 121.4501452,
+                "capacity": 169,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.144",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4426117,
+                    31.23380747
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "昌平路",
+                "lat": 31.23380747,
+                "lng": 121.4426117,
+                "capacity": 809,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.145",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4383441,
+                    31.24036936
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "长寿路",
+                "lat": 31.24036936,
+                "lng": 121.4383441,
+                "capacity": 1146,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.146",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4218972,
+                    31.25633157
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "岚皋路",
+                "lat": 31.25633157,
+                "lng": 121.4218972,
+                "capacity": 793,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.147",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4226003,
+                    31.26390395
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "新村路",
+                "lat": 31.26390395,
+                "lng": 121.4226003,
+                "capacity": 3830,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.423062,
+                    31.27393537
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "大华三路",
+                "lat": 31.27393537,
+                "lng": 121.423062,
+                "capacity": 2006,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4216377,
+                    31.28497297
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "行知路",
+                "lat": 31.28497297,
+                "lng": 121.4216377,
+                "capacity": 516,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4164733,
+                    31.29363226
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "大场镇",
+                "lat": 31.29363226,
+                "lng": 121.4164733,
+                "capacity": 677,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4136972,
+                    31.30374729
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "场中路",
+                "lat": 31.30374729,
+                "lng": 121.4136972,
+                "capacity": 3853,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.408531,
+                    31.31468752
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上大路",
+                "lat": 31.31468752,
+                "lng": 121.408531,
+                "capacity": 2349,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3987661,
+                    31.32154832
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "南陈路",
+                "lat": 31.32154832,
+                "lng": 121.3987661,
+                "capacity": 2063,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3888825,
+                    31.32054135
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海大学",
+                "lat": 31.32054135,
+                "lng": 121.3888825,
+                "capacity": 3738,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3823026,
+                    31.35131182
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "顾村公园",
+                "lat": 31.35131182,
+                "lng": 121.3823026,
+                "capacity": 3084,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3622915,
+                    31.35766
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "刘行",
+                "lat": 31.35766,
+                "lng": 121.3622915,
+                "capacity": 1534,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3558277,
+                    31.36417975
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "潘广路",
+                "lat": 31.36417975,
+                "lng": 121.3558277,
+                "capacity": 557,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3575143,
+                    31.38858677
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "罗南新村",
+                "lat": 31.38858677,
+                "lng": 121.3575143,
+                "capacity": 3749,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3499029,
+                    31.40193225
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "美兰湖",
+                "lat": 31.40193225,
+                "lng": 121.3499029,
+                "capacity": 993,
+                "line": "7"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512494,
+                    31.0613754
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "沈杜公路",
+                "lat": 31.0613754,
+                "lng": 121.512494,
+                "capacity": 3521,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5106519,
+                    31.07353012
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "联航路",
+                "lat": 31.07353012,
+                "lng": 121.5106519,
+                "capacity": 1794,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5086371,
+                    31.08425969
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江月路",
+                "lat": 31.08425969,
+                "lng": 121.5086371,
+                "capacity": 3357,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5063374,
+                    31.096569
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "浦江镇",
+                "lat": 31.096569,
+                "lng": 121.5063374,
+                "capacity": 3320,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4981735,
+                    31.11910917
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "芦恒路",
+                "lat": 31.11910917,
+                "lng": 121.4981735,
+                "capacity": 779,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4895869,
+                    31.14130474
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "凌兆新村",
+                "lat": 31.14130474,
+                "lng": 121.4895869,
+                "capacity": 154,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4937134,
+                    31.16105997
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "杨思",
+                "lat": 31.16105997,
+                "lng": 121.4937134,
+                "capacity": 1498,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4968219,
+                    31.17097822
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "成山路",
+                "lat": 31.17097822,
+                "lng": 121.4968219,
+                "capacity": 1256,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4937098,
+                    31.18529726
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "中华艺术宫",
+                "lat": 31.18529726,
+                "lng": 121.4937098,
+                "capacity": 1098,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.482997,
+                    31.2126262
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "陆家浜路",
+                "lat": 31.2126262,
+                "lng": 121.482997,
+                "capacity": 2438,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.483491,
+                    31.2190502
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "老西门",
+                "lat": 31.2190502,
+                "lng": 121.483491,
+                "capacity": 305,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4793096,
+                    31.22737647
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "大世界",
+                "lat": 31.22737647,
+                "lng": 121.4793096,
+                "capacity": 3674,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4716148,
+                    31.24246587
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "曲阜路",
+                "lat": 31.24246587,
+                "lng": 121.4716148,
+                "capacity": 3600,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4688984,
+                    31.25310875
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "中兴路",
+                "lat": 31.25310875,
+                "lng": 121.4688984,
+                "capacity": 3138,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4687134,
+                    31.26347576
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "西藏北路",
+                "lat": 31.26347576,
+                "lng": 121.4687134,
+                "capacity": 2608,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.490764,
+                    31.27652161
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "曲阳路",
+                "lat": 31.27652161,
+                "lng": 121.490764,
+                "capacity": 202,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5014451,
+                    31.27491371
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "四平路",
+                "lat": 31.27491371,
+                "lng": 121.5014451,
+                "capacity": 2757,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5096483,
+                    31.27325101
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "鞍山新村",
+                "lat": 31.27325101,
+                "lng": 121.5096483,
+                "capacity": 1313,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5182483,
+                    31.27509701
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江浦路",
+                "lat": 31.27509701,
+                "lng": 121.5182483,
+                "capacity": 1583,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5284024,
+                    31.27883247
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "黄兴路",
+                "lat": 31.27883247,
+                "lng": 121.5284024,
+                "capacity": 1774,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5349334,
+                    31.28836701
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "延吉中路",
+                "lat": 31.28836701,
+                "lng": 121.5349334,
+                "capacity": 238,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5332231,
+                    31.29570933
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "黄兴公园",
+                "lat": 31.29570933,
+                "lng": 121.5332231,
+                "capacity": 1254,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.182",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5320114,
+                    31.30495212
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "翔殷路",
+                "lat": 31.30495212,
+                "lng": 121.5320114,
+                "capacity": 2915,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5320882,
+                    31.3148497
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "嫩江路",
+                "lat": 31.3148497,
+                "lng": 121.5320882,
+                "capacity": 2713,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5320273,
+                    31.32267413
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "市光路",
+                "lat": 31.32267413,
+                "lng": 121.5320273,
+                "capacity": 1410,
+                "line": "8"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6827839,
+                    31.27168616
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "曹路",
+                "lat": 31.27168616,
+                "lng": 121.6827839,
+                "capacity": 2512,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6681594,
+                    31.26839236
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "民雷路",
+                "lat": 31.26839236,
+                "lng": 121.6681594,
+                "capacity": 3872,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6565871,
+                    31.26606162
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "顾唐路",
+                "lat": 31.26606162,
+                "lng": 121.6565871,
+                "capacity": 1977,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6387973,
+                    31.26332221
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金海路",
+                "lat": 31.26332221,
+                "lng": 121.6387973,
+                "capacity": 3442,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6285357,
+                    31.26427215
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金吉路",
+                "lat": 31.26427215,
+                "lng": 121.6285357,
+                "capacity": 1588,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6112296,
+                    31.26064825
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金桥",
+                "lat": 31.26064825,
+                "lng": 121.6112296,
+                "capacity": 1106,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597839,
+                    31.25257698
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "台儿庄路",
+                "lat": 31.25257698,
+                "lng": 121.597839,
+                "capacity": 971,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5777495,
+                    31.24086589
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "蓝天路",
+                "lat": 31.24086589,
+                "lng": 121.5777495,
+                "capacity": 264,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5585466,
+                    31.23151532
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "芳甸路",
+                "lat": 31.23151532,
+                "lng": 121.5585466,
+                "capacity": 3553,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5487189,
+                    31.22747633
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "杨高中路",
+                "lat": 31.22747633,
+                "lng": 121.5487189,
+                "capacity": 2871,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5163292,
+                    31.23040264
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "商城路",
+                "lat": 31.23040264,
+                "lng": 121.5163292,
+                "capacity": 3278,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4982976,
+                    31.21701133
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "小南门",
+                "lat": 31.21701133,
+                "lng": 121.4982976,
+                "capacity": 649,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.197",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.48612,
+                    31.2116442
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "陆家浜",
+                "lat": 31.2116442,
+                "lng": 121.48612,
+                "capacity": 3815,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.198",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4768318,
+                    31.20977316
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "马当路",
+                "lat": 31.20977316,
+                "lng": 121.4768318,
+                "capacity": 2548,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.199",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4688764,
+                    31.20616524
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "打浦桥",
+                "lat": 31.20616524,
+                "lng": 121.4688764,
+                "capacity": 908,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.200",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4608704,
+                    31.20251692
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "嘉善路",
+                "lat": 31.20251692,
+                "lng": 121.4608704,
+                "capacity": 685,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.201",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4184958,
+                    31.17495691
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "桂林路",
+                "lat": 31.17495691,
+                "lng": 121.4184958,
+                "capacity": 3342,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.202",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3977727,
+                    31.17052667
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "漕河泾开发区",
+                "lat": 31.17052667,
+                "lng": 121.3977727,
+                "capacity": 2265,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.203",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3846734,
+                    31.16648958
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "合川路",
+                "lat": 31.16648958,
+                "lng": 121.3846734,
+                "capacity": 406,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.204",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3689773,
+                    31.15820445
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "星中路",
+                "lat": 31.15820445,
+                "lng": 121.3689773,
+                "capacity": 2112,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.205",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3495158,
+                    31.15546628
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "七宝",
+                "lat": 31.15546628,
+                "lng": 121.3495158,
+                "capacity": 361,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.206",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3376295,
+                    31.14938336
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "中春路",
+                "lat": 31.14938336,
+                "lng": 121.3376295,
+                "capacity": 2242,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.207",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3194955,
+                    31.13723903
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "九亭",
+                "lat": 31.13723903,
+                "lng": 121.3194955,
+                "capacity": 291,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.208",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2603654,
+                    31.1183245
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "泗泾",
+                "lat": 31.1183245,
+                "lng": 121.2603654,
+                "capacity": 543,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.209",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2297088,
+                    31.1044565
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "佘山",
+                "lat": 31.1044565,
+                "lng": 121.2297088,
+                "capacity": 2728,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.210",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2305039,
+                    31.08447291
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "洞泾",
+                "lat": 31.08447291,
+                "lng": 121.2305039,
+                "capacity": 2430,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.211",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2326895,
+                    31.05413179
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "松江大学城",
+                "lat": 31.05413179,
+                "lng": 121.2326895,
+                "capacity": 3562,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.212",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2307473,
+                    31.03029664
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "松江新城",
+                "lat": 31.03029664,
+                "lng": 121.2307473,
+                "capacity": 3701,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.213",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2305612,
+                    31.01613309
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "松江体育中心",
+                "lat": 31.01613309,
+                "lng": 121.2305612,
+                "capacity": 1595,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.214",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2291393,
+                    31.00108383
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "醉白池",
+                "lat": 31.00108383,
+                "lng": 121.2291393,
+                "capacity": 178,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.215",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2307852,
+                    30.98497924
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "松江南站",
+                "lat": 30.98497924,
+                "lng": 121.2307852,
+                "capacity": 2553,
+                "line": "9"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.216",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5065964,
+                    31.32881374
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "新江湾城",
+                "lat": 31.32881374,
+                "lng": 121.5065964,
+                "capacity": 936,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.217",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5069704,
+                    31.32190174
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "殷高东路",
+                "lat": 31.32190174,
+                "lng": 121.5069704,
+                "capacity": 3170,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.218",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5080141,
+                    31.31314603
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "三门路",
+                "lat": 31.31314603,
+                "lng": 121.5080141,
+                "capacity": 1621,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.219",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5135049,
+                    31.30399176
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江湾体育场",
+                "lat": 31.30399176,
+                "lng": 121.5135049,
+                "capacity": 2898,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.220",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514649,
+                    31.29808439
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "五角场",
+                "lat": 31.29808439,
+                "lng": 121.514649,
+                "capacity": 2747,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.221",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510225,
+                    31.28931339
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "国权路",
+                "lat": 31.28931339,
+                "lng": 121.510225,
+                "capacity": 1843,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.222",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5064796,
+                    31.28257536
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "同济大学",
+                "lat": 31.28257536,
+                "lng": 121.5064796,
+                "capacity": 3064,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.223",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4942687,
+                    31.26853888
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "邮电新村",
+                "lat": 31.26853888,
+                "lng": 121.4942687,
+                "capacity": 2893,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.224",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4842275,
+                    31.25200004
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "四川北路",
+                "lat": 31.25200004,
+                "lng": 121.4842275,
+                "capacity": 537,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.225",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4822152,
+                    31.24434517
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "天潼路",
+                "lat": 31.24434517,
+                "lng": 121.4822152,
+                "capacity": 2917,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.226",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4873206,
+                    31.22826047
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "豫园",
+                "lat": 31.22826047,
+                "lng": 121.4873206,
+                "capacity": 1363,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.227",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4751688,
+                    31.21609416
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "新天地",
+                "lat": 31.21609416,
+                "lng": 121.4751688,
+                "capacity": 1504,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.228",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.444336,
+                    31.2080727
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海图书馆",
+                "lat": 31.2080727,
+                "lng": 121.444336,
+                "capacity": 3109,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.229",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4346434,
+                    31.20210453
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "交通大学",
+                "lat": 31.20210453,
+                "lng": 121.4346434,
+                "capacity": 2338,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.230",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4126398,
+                    31.19612537
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "宋园路",
+                "lat": 31.19612537,
+                "lng": 121.4126398,
+                "capacity": 343,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.231",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4041437,
+                    31.19872417
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "伊犁路",
+                "lat": 31.19872417,
+                "lng": 121.4041437,
+                "capacity": 2038,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.232",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3918766,
+                    31.19930548
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "水城路",
+                "lat": 31.19930548,
+                "lng": 121.3918766,
+                "capacity": 3617,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.233",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3801396,
+                    31.19439154
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "龙溪路",
+                "lat": 31.19439154,
+                "lng": 121.3801396,
+                "capacity": 2506,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.234",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3683155,
+                    31.19020743
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海动物园",
+                "lat": 31.19020743,
+                "lng": 121.3683155,
+                "capacity": 3464,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.235",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3469401,
+                    31.19142825
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹桥1号航站楼",
+                "lat": 31.19142825,
+                "lng": 121.3469401,
+                "capacity": 3739,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.236",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3703416,
+                    31.17764082
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "龙柏新村",
+                "lat": 31.17764082,
+                "lng": 121.3703416,
+                "capacity": 3141,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.237",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3643825,
+                    31.16976964
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "紫藤路",
+                "lat": 31.16976964,
+                "lng": 121.3643825,
+                "capacity": 2370,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.238",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3549263,
+                    31.16542845
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "航中路",
+                "lat": 31.16542845,
+                "lng": 121.3549263,
+                "capacity": 3321,
+                "line": "10"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.239",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6173612,
+                    31.13037687
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "康新公路",
+                "lat": 31.13037687,
+                "lng": 121.6173612,
+                "capacity": 2503,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.240",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5984834,
+                    31.13818803
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "秀沿路",
+                "lat": 31.13818803,
+                "lng": 121.5984834,
+                "capacity": 2146,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.241",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5931113,
+                    31.15343091
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "罗山路",
+                "lat": 31.15343091,
+                "lng": 121.5931113,
+                "capacity": 2019,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.242",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570688,
+                    31.15822176
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "御桥",
+                "lat": 31.15822176,
+                "lng": 121.570688,
+                "capacity": 3583,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.243",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5231464,
+                    31.14647172
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "三林东",
+                "lat": 31.14647172,
+                "lng": 121.5231464,
+                "capacity": 336,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.244",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5391288,
+                    31.15091596
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "浦三路",
+                "lat": 31.15091596,
+                "lng": 121.5391288,
+                "capacity": 1611,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.245",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4597451,
+                    31.15988948
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "龙耀路",
+                "lat": 31.15988948,
+                "lng": 121.4597451,
+                "capacity": 1320,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.246",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4584485,
+                    31.16677267
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "云锦路",
+                "lat": 31.16677267,
+                "lng": 121.4584485,
+                "capacity": 3782,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.247",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4528911,
+                    31.1728329
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "龙华",
+                "lat": 31.1728329,
+                "lng": 121.4528911,
+                "capacity": 2200,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.248",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4415415,
+                    31.17924884
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海游泳馆",
+                "lat": 31.17924884,
+                "lng": 121.4415415,
+                "capacity": 3788,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.249",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.423568,
+                    31.23047565
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "隆德路",
+                "lat": 31.23047565,
+                "lng": 121.423568,
+                "capacity": 948,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.250",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4111658,
+                    31.24190091
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "枫桥路",
+                "lat": 31.24190091,
+                "lng": 121.4111658,
+                "capacity": 1535,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.251",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4072632,
+                    31.25070487
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "真如",
+                "lat": 31.25070487,
+                "lng": 121.4072632,
+                "capacity": 3425,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.252",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4009163,
+                    31.26272711
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海西站",
+                "lat": 31.26272711,
+                "lng": 121.4009163,
+                "capacity": 3580,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.253",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3900418,
+                    31.2689701
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "李子园",
+                "lat": 31.2689701,
+                "lng": 121.3900418,
+                "capacity": 2380,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.254",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3759071,
+                    31.27154853
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "祁连山路",
+                "lat": 31.27154853,
+                "lng": 121.3759071,
+                "capacity": 653,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.255",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3648995,
+                    31.27681903
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "武威路",
+                "lat": 31.27681903,
+                "lng": 121.3648995,
+                "capacity": 3315,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.256",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3495306,
+                    31.28163018
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "桃浦新村",
+                "lat": 31.28163018,
+                "lng": 121.3495306,
+                "capacity": 923,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.257",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3233539,
+                    31.296992
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "南翔",
+                "lat": 31.296992,
+                "lng": 121.3233539,
+                "capacity": 3928,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.258",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2770417,
+                    31.31972179
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "马陆",
+                "lat": 31.31972179,
+                "lng": 121.2770417,
+                "capacity": 3835,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.259",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2544252,
+                    31.33008496
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "嘉定新城",
+                "lat": 31.33008496,
+                "lng": 121.2544252,
+                "capacity": 393,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.260",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2453786,
+                    31.34536337
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "白银路",
+                "lat": 31.34536337,
+                "lng": 121.2453786,
+                "capacity": 583,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.261",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2279226,
+                    31.37713188
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "嘉定西",
+                "lat": 31.37713188,
+                "lng": 121.2279226,
+                "capacity": 941,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.262",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2374995,
+                    31.39149632
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "嘉定北",
+                "lat": 31.39149632,
+                "lng": 121.2374995,
+                "capacity": 3855,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.263",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2261371,
+                    31.3318383
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海赛车场",
+                "lat": 31.3318383,
+                "lng": 121.2261371,
+                "capacity": 3573,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.264",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2004215,
+                    31.29359336
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "昌吉东路",
+                "lat": 31.29359336,
+                "lng": 121.2004215,
+                "capacity": 758,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.265",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1808451,
+                    31.28533888
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "上海汽车城",
+                "lat": 31.28533888,
+                "lng": 121.1808451,
+                "capacity": 3299,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.266",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1620995,
+                    31.2884468
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "安亭",
+                "lat": 31.2884468,
+                "lng": 121.1620995,
+                "capacity": 3242,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.267",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4234404,
+                    31.00548173
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江川路",
+                "lat": 31.00548173,
+                "lng": 121.4234404,
+                "capacity": 2602,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.268",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4324811,
+                    30.98926572
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "西渡",
+                "lat": 30.98926572,
+                "lng": 121.4324811,
+                "capacity": 1890,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.269",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4419816,
+                    30.96591638
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "肖塘",
+                "lat": 30.96591638,
+                "lng": 121.4419816,
+                "capacity": 1367,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.270",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4493002,
+                    30.94186227
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "奉浦大道",
+                "lat": 30.94186227,
+                "lng": 121.4493002,
+                "capacity": 3966,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.271",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4636298,
+                    30.93104856
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "环城东路",
+                "lat": 30.93104856,
+                "lng": 121.4636298,
+                "capacity": 1483,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.272",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4837555,
+                    30.93197887
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "望园路",
+                "lat": 30.93197887,
+                "lng": 121.4837555,
+                "capacity": 2486,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.273",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49248,
+                    30.92896977
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金海湖",
+                "lat": 30.92896977,
+                "lng": 121.49248,
+                "capacity": 3098,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.274",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4961964,
+                    30.91419397
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "奉贤新城",
+                "lat": 30.91419397,
+                "lng": 121.4961964,
+                "capacity": 1454,
+                "line": "5.5"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.275",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3631236,
+                    31.13186528
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "七莘路",
+                "lat": 31.13186528,
+                "lng": 121.3631236,
+                "capacity": 2058,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.276",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3801688,
+                    31.13739852
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹莘路",
+                "lat": 31.13739852,
+                "lng": 121.3801688,
+                "capacity": 1647,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.277",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3923776,
+                    31.14092732
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "顾戴路",
+                "lat": 31.14092732,
+                "lng": 121.3923776,
+                "capacity": 2095,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.278",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3919795,
+                    31.15568894
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东兰路",
+                "lat": 31.15568894,
+                "lng": 121.3919795,
+                "capacity": 934,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.279",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3973712,
+                    31.16033347
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹梅路",
+                "lat": 31.16033347,
+                "lng": 121.3973712,
+                "capacity": 2666,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.280",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4105632,
+                    31.16410486
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "虹漕路",
+                "lat": 31.16410486,
+                "lng": 121.4105632,
+                "capacity": 687,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.281",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4192863,
+                    31.16687664
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "桂林公园",
+                "lat": 31.16687664,
+                "lng": 121.4192863,
+                "capacity": 691,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.282",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4982686,
+                    31.25019487
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "国际客运中心",
+                "lat": 31.25019487,
+                "lng": 121.4982686,
+                "capacity": 995,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.283",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5066951,
+                    31.25350425
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "提篮桥",
+                "lat": 31.25350425,
+                "lng": 121.5066951,
+                "capacity": 2460,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.284",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5237231,
+                    31.26446074
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江浦公园",
+                "lat": 31.26446074,
+                "lng": 121.5237231,
+                "capacity": 354,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.285",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5324456,
+                    31.26844662
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "宁国路",
+                "lat": 31.26844662,
+                "lng": 121.5324456,
+                "capacity": 1852,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.286",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5444128,
+                    31.27511057
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "隆昌路",
+                "lat": 31.27511057,
+                "lng": 121.5444128,
+                "capacity": 683,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.287",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553038,
+                    31.28001444
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "爱国路",
+                "lat": 31.28001444,
+                "lng": 121.553038,
+                "capacity": 1188,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.288",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5611374,
+                    31.28076929
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "复兴岛",
+                "lat": 31.28076929,
+                "lng": 121.5611374,
+                "capacity": 1452,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.289",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5793235,
+                    31.28252663
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东陆路",
+                "lat": 31.28252663,
+                "lng": 121.5793235,
+                "capacity": 2917,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.290",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6028729,
+                    31.28006426
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "杨高北路",
+                "lat": 31.28006426,
+                "lng": 121.6028729,
+                "capacity": 1254,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.291",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6156225,
+                    31.27976014
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金京路",
+                "lat": 31.27976014,
+                "lng": 121.6156225,
+                "capacity": 1496,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.292",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6272076,
+                    31.28021177
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "申江路",
+                "lat": 31.28021177,
+                "lng": 121.6272076,
+                "capacity": 3197,
+                "line": "12"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.293",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3195947,
+                    31.24099845
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金运路",
+                "lat": 31.24099845,
+                "lng": 121.3195947,
+                "capacity": 1005,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.294",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3348731,
+                    31.24106026
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "金沙江西路",
+                "lat": 31.24106026,
+                "lng": 121.3348731,
+                "capacity": 1729,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.295",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3552906,
+                    31.24246578
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "丰庄",
+                "lat": 31.24246578,
+                "lng": 121.3552906,
+                "capacity": 2857,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3673263,
+                    31.23746561
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "祁连山南路",
+                "lat": 31.23746561,
+                "lng": 121.3673263,
+                "capacity": 954,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.297",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3818935,
+                    31.23226365
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "真北路",
+                "lat": 31.23226365,
+                "lng": 121.3818935,
+                "capacity": 541,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.298",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3946693,
+                    31.23175348
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "大渡河路",
+                "lat": 31.23175348,
+                "lng": 121.3946693,
+                "capacity": 3289,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.299",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4305895,
+                    31.23426955
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "武宁路",
+                "lat": 31.23426955,
+                "lng": 121.4305895,
+                "capacity": 419,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.300",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4447653,
+                    31.24438929
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "江宁路",
+                "lat": 31.24438929,
+                "lng": 121.4447653,
+                "capacity": 2294,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.301",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4624996,
+                    31.23636473
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "自然博物馆",
+                "lat": 31.23636473,
+                "lng": 121.4624996,
+                "capacity": 184,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.302",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4641898,
+                    31.22009712
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "淮海中路",
+                "lat": 31.22009712,
+                "lng": 121.4641898,
+                "capacity": 872,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.303",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4816804,
+                    31.1973739
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "世博会博物馆",
+                "lat": 31.1973739,
+                "lng": 121.4816804,
+                "capacity": 1671,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.304",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4842876,
+                    31.18281738
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "世博大道",
+                "lat": 31.18281738,
+                "lng": 121.4842876,
+                "capacity": 1610,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.305",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5266093,
+                    31.17642379
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "华鹏路",
+                "lat": 31.17642379,
+                "lng": 121.5266093,
+                "capacity": 505,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.306",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5403718,
+                    31.17923314
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "下南路",
+                "lat": 31.17923314,
+                "lng": 121.5403718,
+                "capacity": 3677,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.307",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5523677,
+                    31.18012998
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "北蔡",
+                "lat": 31.18012998,
+                "lng": 121.5523677,
+                "capacity": 1130,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.308",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5576437,
+                    31.17500392
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "陈春路",
+                "lat": 31.17500392,
+                "lng": 121.5576437,
+                "capacity": 2475,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.309",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5664168,
+                    31.16899807
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "莲溪路",
+                "lat": 31.16899807,
+                "lng": 121.5664168,
+                "capacity": 2409,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.310",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5823246,
+                    31.17514612
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "华夏中路",
+                "lat": 31.17514612,
+                "lng": 121.5823246,
+                "capacity": 755,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.311",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6020565,
+                    31.1788775
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "中科路",
+                "lat": 31.1788775,
+                "lng": 121.6020565,
+                "capacity": 1308,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.312",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6144209,
+                    31.1834628
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "学林路",
+                "lat": 31.1834628,
+                "lng": 121.6144209,
+                "capacity": 1005,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.313",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6289488,
+                    31.18920755
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "张江路",
+                "lat": 31.18920755,
+                "lng": 121.6289488,
+                "capacity": 1143,
+                "line": "13"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.314",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6070206,
+                    31.10984923
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "周浦",
+                "lat": 31.10984923,
+                "lng": 121.6070206,
+                "capacity": 3465,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.315",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6112524,
+                    31.07800226
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "鹤沙航城",
+                "lat": 31.07800226,
+                "lng": 121.6112524,
+                "capacity": 1725,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.316",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6175346,
+                    31.05491834
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "航头东",
+                "lat": 31.05491834,
+                "lng": 121.6175346,
+                "capacity": 1251,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.317",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6489247,
+                    31.04545606
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "新场",
+                "lat": 31.04545606,
+                "lng": 121.6489247,
+                "capacity": 3335,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.318",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6992601,
+                    31.05036087
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "野生动物园",
+                "lat": 31.05036087,
+                "lng": 121.6992601,
+                "capacity": 728,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.319",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7617496,
+                    31.05373961
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "惠南",
+                "lat": 31.05373961,
+                "lng": 121.7617496,
+                "capacity": 3738,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.320",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7938621,
+                    31.02648536
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "惠南东",
+                "lat": 31.02648536,
+                "lng": 121.7938621,
+                "capacity": 274,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.321",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8506228,
+                    30.95935567
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "书院",
+                "lat": 30.95935567,
+                "lng": 121.8506228,
+                "capacity": 2134,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.322",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9108535,
+                    30.92348085
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "临港大道",
+                "lat": 30.92348085,
+                "lng": 121.9108535,
+                "capacity": 311,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.323",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9298949,
+                    30.90697439
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "滴水湖",
+                "lat": 30.90697439,
+                "lng": 121.9298949,
+                "capacity": 307,
+                "line": "16"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.324",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2931324,
+                    31.19177754
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "诸光路",
+                "lat": 31.19177754,
+                "lng": 121.2931324,
+                "capacity": 2509,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.325",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2785758,
+                    31.18657563
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "蟠龙路",
+                "lat": 31.18657563,
+                "lng": 121.2785758,
+                "capacity": 493,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.326",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2540285,
+                    31.17831406
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "徐盈路",
+                "lat": 31.17831406,
+                "lng": 121.2540285,
+                "capacity": 1765,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.327",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2416622,
+                    31.17547474
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "徐泾北城",
+                "lat": 31.17547474,
+                "lng": 121.2416622,
+                "capacity": 1231,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.328",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2240663,
+                    31.16400915
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "嘉松中路",
+                "lat": 31.16400915,
+                "lng": 121.2240663,
+                "capacity": 1787,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.329",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1921337,
+                    31.16114078
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "赵巷",
+                "lat": 31.16114078,
+                "lng": 121.1921337,
+                "capacity": 2682,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.330",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1517867,
+                    31.16121071
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "汇金路",
+                "lat": 31.16121071,
+                "lng": 121.1517867,
+                "capacity": 2129,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.331",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1253577,
+                    31.15880359
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "青浦新城",
+                "lat": 31.15880359,
+                "lng": 121.1253577,
+                "capacity": 2763,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.332",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0966999,
+                    31.16041894
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "漕盈路",
+                "lat": 31.16041894,
+                "lng": 121.0966999,
+                "capacity": 2519,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.333",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0820541,
+                    31.13437264
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "淀山湖大道",
+                "lat": 31.13437264,
+                "lng": 121.0820541,
+                "capacity": 3214,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.334",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0490582,
+                    31.10041767
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "朱家角",
+                "lat": 31.10041767,
+                "lng": 121.0490582,
+                "capacity": 405,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.335",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0196081,
+                    31.09847508
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东方绿舟",
+                "lat": 31.09847508,
+                "lng": 121.0196081,
+                "capacity": 3902,
+                "line": "17"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.336",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5275197,
+                    31.0560851
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "三鲁公路",
+                "lat": 31.0560851,
+                "lng": 121.5275197,
+                "capacity": 917,
+                "line": "浦江线"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.337",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5304428,
+                    31.04805547
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "闵瑞路",
+                "lat": 31.04805547,
+                "lng": 121.5304428,
+                "capacity": 2044,
+                "line": "浦江线"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.338",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5307218,
+                    31.04101547
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "浦航路",
+                "lat": 31.04101547,
+                "lng": 121.5307218,
+                "capacity": 3148,
+                "line": "浦江线"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.339",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5322169,
+                    31.03039181
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "东城一路",
+                "lat": 31.03039181,
+                "lng": 121.5322169,
+                "capacity": 543,
+                "line": "浦江线"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.340",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5246731,
+                    31.02527887
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "汇臻路",
+                "lat": 31.02527887,
+                "lng": 121.5246731,
+                "capacity": 357,
+                "line": "浦江线"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.341",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511623,
+                    31.14301226
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "三林",
+                "lat": 31.14301226,
+                "lng": 121.511623,
+                "capacity": 3916,
+                "line": "11"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "shSubway.342",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6680224,
+                    31.14131721
+                ]
+            },
+            "geometry_name": "geom",
+            "properties": {
+                "name": "迪士尼",
+                "lat": 31.14131721,
+                "lng": 121.6680224,
+                "capacity": 3346,
+                "line": "11"
+            }
+        }
+    ],
+    "totalFeatures": 342,
+    "numberMatched": 342,
+    "numberReturned": 342,
+    "timeStamp": "2023-10-07T04:28:07.615Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}
