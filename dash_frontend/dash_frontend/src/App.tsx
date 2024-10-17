@@ -85,7 +85,7 @@ type DataPoint = [longitude: number, latitude: number];
 
 function App({
   mapStyle = MAP_STYLE,
-  radius = 1000,
+  radius = 100,
   upperPercentile = 100,
   coverage = 1
 }: {
